@@ -1,0 +1,24 @@
+{
+  "name": "toads-garden-test",
+  "version": "1.0.0",
+  "description": "Toad saves the day",
+  "main": "index.js",
+  "scripts": {
+    "start": "node scripts/start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toads-garden/toads-garden-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toads-garden/toads-garden-test/issues"
+  },
+  "homepage": "https://github.com/toads-garden/toads-garden-test#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "parcel": "^2.8.3",
+    "phaser": "^3.55.2"
+  }
+}
